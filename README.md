@@ -4,9 +4,9 @@
 
 ### 🧠 Sobre mim
 
-  -  👩‍💻 Meu nome é Luana, tenho 17 anos;
+  -  👩‍💻 Meu nome é Luana, tenho 18 anos;
   -  💻 Trabalho com: Desenvolvimento de Sistemas;
-  -  📚 Cursando: Desenvolvimento de Sistemas(Senai Roberto Mange) e Inglês;
+  -  📚 Cursando: Tecnologo em Analise e Desenvolvimento de Sistemas - UNIP e Inglês;
   -  🌱 Atualmente Estudando: Desing Grafico, UI/Ux, FastAPI, Django, React e flutter;
   -  🎓 Formação: Informatica Básica, marketing e Midias sociais;
 
